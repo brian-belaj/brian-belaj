@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on [Sanlorenzo Charter Fleet](https://sanlorenzocharterfleet.com/)
-
 - 🌱 I’m currently learning **Pyton and Django**
 
 - 📫 How to reach me **belaj.br@gmail.com**
