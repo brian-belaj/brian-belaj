@@ -63,14 +63,6 @@
   </a>
 </p>
 
-<h3 align="left">A Few Fun Facts:</h3>
-<ul>
-  <li>🌍 I'm based in Pisa, Italy, but I work with clients from all over the world!</li>
-  <li>🐱 I’m a big animal lover (and a proud cat owner).</li>
-  <li>🎮 In my free time, I enjoy gaming and exploring new tech trends.</li>
-  <li>📚 Currently reading short stories by Neil Gaiman — a huge fan of creative writing!</li>
-</ul>
-
 <h3 align="left">Most Used Languages:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-belaj&layout=compact&theme=radical" alt="Top Languages" />
