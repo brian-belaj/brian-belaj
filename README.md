@@ -18,7 +18,7 @@
   <a href="https://github.com/brian-belaj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="brian-belaj" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/brian_belaj" target="blank">
+  <a href="https://x.com/BelajBrian" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_belaj" height="30" width="40" />
   </a>
 </p>
