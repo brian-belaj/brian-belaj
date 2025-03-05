@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Passionate about Web Technologies</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brianbelaj&label=Profile%20views&color=0e75b7&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=brian-belaj&label=Profile%20views&color=0e75b7&style=flat" alt="Profile views"/>
 </p>
 
 - 🌱 I’m currently diving into **Python** to expand my backend skills.  
@@ -15,8 +15,8 @@
   <a href="https://linkedin.com/in/brian-belaj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-belaj" height="30" width="40" />
   </a>
-  <a href="https://github.com/brianbelaj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="brianbelaj" height="30" width="40" />
+  <a href="https://github.com/brian-belaj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="brian-belaj" height="30" width="40" />
   </a>
   <a href="https://twitter.com/brian_belaj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_belaj" height="30" width="40" />
@@ -73,5 +73,5 @@
 
 <h3 align="left">Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianbelaj&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Brian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-belaj&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Brian's GitHub Stats" />
 </p>
