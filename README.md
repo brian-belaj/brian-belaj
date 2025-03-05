@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **Pyton and Django**
+- 🌱 I’m currently learning **Pyton**
 
 - 📫 How to reach me **belaj.br@gmail.com**
 
