@@ -63,7 +63,3 @@
   </a>
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-belaj&layout=compact&theme=radical" alt="Top Languages" />
-</p>
