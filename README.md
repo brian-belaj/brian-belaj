@@ -71,7 +71,7 @@
   <li>📚 Currently reading short stories by Neil Gaiman — a huge fan of creative writing!</li>
 </ul>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">Most Used Languages:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-belaj&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Brian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-belaj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
