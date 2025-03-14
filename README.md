@@ -22,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_belaj" height="30" width="40" />
   </a>
  <a href="https://t.me/brianbelaj" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="telegram" height="30" width="40" />
+  <img align="center" src="https://en.wikipedia.org/wiki/Telegram_(software)#/media/File:Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" />
 </a>
 
 </p>
