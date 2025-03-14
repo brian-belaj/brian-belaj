@@ -22,8 +22,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_belaj" height="30" width="40" />
   </a>
   <a href="https://t.me/brianbelaj" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="telegram" height="30" width="40" style="filter: invert(29%) sepia(78%) saturate(1565%) hue-rotate(183deg) brightness(92%) contrast(91%);" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="telegram" height="30" width="40" style="filter: invert(47%) sepia(69%) saturate(2766%) hue-rotate(186deg) brightness(95%) contrast(91%);" />
 </a>
+
 
 
 </p>
