@@ -21,10 +21,11 @@
   <a href="https://x.com/BelajBrian" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_belaj" height="30" width="40" />
   </a>
-  <a href="@brianbelaj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="brian_belaj" height="30" width="40" />
+  <a href="https://t.me/brianbelaj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="brianbelaj" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
